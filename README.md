@@ -1,4 +1,4 @@
-## NoSQL Challenge: Social Network API
+## NoSQL Challenge: Social Network API (Module 18)
 The purpose of this challenge was to create a command line application that starts a server where models are synced to a MongoDB database.
 
 ## Table of Contents
